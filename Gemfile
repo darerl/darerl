@@ -8,7 +8,7 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-# 2023-10-29 Kenny replacing jekull with github-pages, guide from https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll
+# 2023-10-29 Kenny replacing jekyll with github-pages, guide from https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll
 # gem "jekyll", "~> 4.2.2"
 gem "github-pages", "~> 228", group: :jekyll_plugins
 
