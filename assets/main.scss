@@ -1,5 +1,4 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
 ---
 
 @import "minima";
@@ -10,4 +9,82 @@
 	position: relative;
 	width: 35px;
 	top: 10px;
+}
+
+
+img.icon {
+  aspect-ratio: 1;
+  width: 64px;
+  height: 64px;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 4px;
+}
+
+td.pic {
+  width: 80px;
+  text-align: center;
+  vertical-align: top;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+td.text {
+  width: 420px;
+  text-align: left;
+  vertical-align: top;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 0px;
+}
+
+table.main {
+  border: none;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.link_button {
+  background-color: #FFFFFF;
+  color: #267CB9;
+  text-decoration: none;
+  transition-duration: 0.4s;
+  font-weight: normal !important;
+  //border: 1px solid #267CB9;
+  //border-radius: 4px;
+  //padding-top: 1px;
+  //padding-bottom: 1px;
+  //padding-left: 2px;
+  //padding-right: 2px;
+  //box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.link_button:hover {
+  background-color: #069;
+  color: #FFFFFF;
+  font-weight: normal !important;
+}
+
+.nav_link {
+  color: #267CB9;
+  text-decoration: none;
+  font-weight: normal !important;
+}
+
+.nav_link_page {
+  color: #069;
+  text-decoration: underline #069 solid;
+  font-weight: normal !important;
+}
+
+.nav_link:hover, .nav_link_page:hover {
+  color: #069;
+  text-decoration: underline #069 solid;
+  font-weight: normal !important;
 }
