@@ -7,3 +7,5 @@ vendor
 .idea/
 /.idea
 .DS_Store
+/XXX_includes
+/XXXXXX_layouts
