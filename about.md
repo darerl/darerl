@@ -60,7 +60,7 @@ DARERL provides computer models and computing services to medical device manufac
 </table>
 
 
-DARERL ApS was founded as a start-out company from Professor Kenny Erleben and Professor Sune Darkner from the University of Copenhagen.
+DARERL ApS was founded as a start-up company by Professor Kenny Erleben and Professor Sune Darkner from the University of Copenhagen.
 The company emerged in connection with the EU RIA project, [Intelligent Robotic Endoscopes for Improved Healthcare Services (IRE)](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101135082/program/43108390/details), funded under HORIZON-CL4-2023-DIGITAL-EMERGING-01.
 
 The technology behind DARERL was originally published
