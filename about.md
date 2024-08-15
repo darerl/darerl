@@ -60,9 +60,17 @@ DARERL provides computer models and computing services to medical device manufac
 </table>
 
 
-DARERL ApS was founded as a spin-out company from the University of Copenhagen by Professor Kenny Erleben and Professor Sune Darkner. The company emerged in connection with the EU RIA project, [Intelligent Robotic Endoscopes for Improved Healthcare Services (IRE)](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101135082/program/43108390/details), funded under HORIZON-CL4-2023-DIGITAL-EMERGING-01.
+DARERL ApS was founded as a start-out company from Professor Kenny Erleben and Professor Sune Darkner from the University of Copenhagen.
+The company emerged in connection with the EU RIA project, [Intelligent Robotic Endoscopes for Improved Healthcare Services (IRE)](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101135082/program/43108390/details), funded under HORIZON-CL4-2023-DIGITAL-EMERGING-01.
 
-The technology behind DARERL was originally developed under the Horizon 2020 project [RAINBOW](https://rainbow.ku.dk/), which concluded on 31/03/2022. The [European Commission Innovation Radar](https://innovation-radar.ec.europa.eu/innovation/35799) analyzed this innovation based on data collected on 11/11/2019. The JRC’s Market Creation Potential indicator framework assessed the innovation as addressing the needs of existing markets and customers.
+The technology behind DARERL was originally published
+and open-sourced under the Horizon 2020 project [RAINBOW](https://rainbow.ku.dk/),
+which concluded on 31/03/2022.
+The [European Commission Innovation Radar](https://innovation-radar.ec.europa.eu/innovation/35799) analyzed this innovation based on data
+collected on 11/11/2019.
+The JRC’s Market Creation Potential indicator framework assessed the innovation
+as addressing the needs of existing markets and customers.
 
-Early versions of DARERL's Digital Twin Technology were applied to [orthodontics](https://di.ku.dk/english/news/2024/straightening-teeth-ai-can-help/) and [orthopedic](https://di.ku.dk/english/news/2022/diku-creates-digital-twins-of-the-future/) use cases. Our technology has produced some of the highest quality publicly available digital populations, such as [LibHip](https://github.com/diku-dk/libhip) and [Open-Full-Jaw](https://github.com/diku-dk/Open-Full-Jaw). Since 2019, the technology has matured, and as of 2024, it can handle more cases, including [virtual kidneys](https://github.com/diku-dk/RenalVesselSeg) and [colons](https://ire4health.eu).
-
+Early versions of DARERL's Digital Twin Technology were applied to [orthodontics](https://di.ku.dk/english/news/2024/straightening-teeth-ai-can-help/) and [orthopedic](https://di.ku.dk/english/news/2022/diku-creates-digital-twins-of-the-future/) use cases.
+Our technology has produced some of the highest quality publicly available digital populations, such as [LibHip](https://github.com/diku-dk/libhip) and [Open-Full-Jaw](https://github.com/diku-dk/Open-Full-Jaw). 
+Since 2019, the technology has matured, and as of 2024, it can handle more cases, including [virtual kidneys](https://github.com/diku-dk/RenalVesselSeg) and [colons](https://ire4health.eu).
