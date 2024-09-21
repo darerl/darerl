@@ -36,9 +36,7 @@ permalink: /about/
 
 </style>
 
-
 DARERL provides computer models and computing services to medical device manufacturers, enabling them to incorporate human variation in their computerized testing and development processes. The core idea behind DARERL's product is to offer access to a portfolio of multiple foundational mechanistic models for virtual development and testing, a departure from the industry's current practice of using a single generic model. DARERL's competitive advantage lies in its in-house software, which allows for faster automated upscaling of models and statistical analysis on large collections of models. This innovation moves the industry from single in-silico case studies to comprehensive in-silico clinical trials. DARERL leverages extensive medical image datasets, expert knowledge of anatomical geometry in neural networks, finite element analysis, and statistical population analysis.
-
 
 <table class="photo-table">
   <tbody>
@@ -47,13 +45,13 @@ DARERL provides computer models and computing services to medical device manufac
         <div class="photo">
             <img width="256px" src="/assets/images/kenny.jpg" alt="Kenny Erleben">
         </div> 
-        Kenny Erleben
+        Kenny Erleben, CEO, Founder
         </td>
         <td>
         <div class="photo">
             <img width="256px" src="/assets/images/sune.jpeg" alt="Sune Darkner">
         </div>
-        Sune Darkner
+        Sune Darkner, CTO, Founder
         </td>
     </tr>
   </tbody>
@@ -74,3 +72,78 @@ as addressing the needs of existing markets and customers.
 Early versions of DARERL's Digital Twin Technology were applied to [orthodontics](https://di.ku.dk/english/news/2024/straightening-teeth-ai-can-help/) and [orthopedic](https://di.ku.dk/english/news/2022/diku-creates-digital-twins-of-the-future/) use cases.
 Our technology has produced some of the highest quality publicly available digital populations, such as [LibHip](https://github.com/diku-dk/libhip) and [Open-Full-Jaw](https://github.com/diku-dk/Open-Full-Jaw). 
 Since 2019, the technology has matured, and as of 2024, it can handle more cases, including [virtual kidneys](https://github.com/diku-dk/RenalVesselSeg) and [colons](https://ire4health.eu).
+
+
+<h2>The DARERL Team</h2>
+
+
+<table class="photo-table">
+  <tbody>
+    <tr>
+      
+        <td>
+        <div class="photo">
+            <img width="256px" src="/assets/images/sandra_fredmark.jpeg" alt="Sandra Fredmark">
+        </div> 
+        Sandra Fredmark, VP of Legal & Administration 
+        </td>
+
+
+        <td>
+        <div class="photo">
+            <img width="256px" src="/assets/images/sarah_maria_niebe_abel.jpg" alt="Sarah Maria Niebe Abel">
+        </div>
+        Sarah Maria Niebe Abel, Senior Developer, Simulation Sepcialist
+        </td>
+
+
+        <td>
+        <div class="photo">
+            <img width="256px" src="/assets/images/silas_nyboe_ørting.jpeg" alt="Silas Nyboe Ørting">
+        </div>
+        Silas Nyboe Ørting, Senior Developer, Medical Image Specialist
+        </td>
+
+        <td>
+        <div class="photo">
+            <img width="256px" src="/assets/images/hans_jacob_teglbjærg_stephensen.jpeg" alt="Hans Jacob Teglbjærg Stephensen">
+        </div>
+        Hans Jacob Teglbjærg Stephensen, Senior Developer, ML & AI Specialist 
+        </td>
+
+    </tr>
+  </tbody>
+</table>
+
+
+
+<h2>The DARERL Advisory Board</h2>
+
+<table class="photo-table">
+  <tbody>
+    <tr>
+
+        <td>
+        <div class="photo">
+            <img width="256px" src="/assets/images/karsten_bo_rasmussen.jpeg" alt="Karsten Bo Rasmussen">
+        </div> 
+        Karsten Bo Rasmussen, Industry Advisor, Hearing Aid Industry Opinion Leader
+        </td>
+        
+        <td>
+        <div class="photo">
+            <img width="256px" src="/assets/images/enrique_morales_orcajo.jpg" alt="enrique_morales_orcajo">
+        </div>
+        Enrique Morales Orcajo, Technology Advisor, In Silico Medicine Opinion Leader
+        </td>
+
+        <td>
+        <div class="photo">
+            <img width="256px" src="/assets/images/michael_bachmann_nielsen.jpeg" alt="Michael Bachmann Nielsen, Professor of Radiology">
+        </div>
+        Michael Bachmann Nielsen, Clinical Advisor, Professor of Radiology
+        </td>
+
+    </tr>
+  </tbody>
+</table>

@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: DARERL ApS
+title: DARERL
 
 
 email: info@darerl.com
@@ -71,6 +71,7 @@ plugins:
 # in order as they should show up.
 header_pages:
   - products.md
+  - services.md
   - pubs.md
   - about.md
 
