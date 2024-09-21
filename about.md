@@ -38,26 +38,6 @@ permalink: /about/
 
 DARERL provides computer models and computing services to medical device manufacturers, enabling them to incorporate human variation in their computerized testing and development processes. The core idea behind DARERL's product is to offer access to a portfolio of multiple foundational mechanistic models for virtual development and testing, a departure from the industry's current practice of using a single generic model. DARERL's competitive advantage lies in its in-house software, which allows for faster automated upscaling of models and statistical analysis on large collections of models. This innovation moves the industry from single in-silico case studies to comprehensive in-silico clinical trials. DARERL leverages extensive medical image datasets, expert knowledge of anatomical geometry in neural networks, finite element analysis, and statistical population analysis.
 
-<table class="photo-table">
-  <tbody>
-    <tr>
-      <td>
-        <div class="photo">
-            <img width="256px" src="/assets/images/kenny.jpg" alt="Kenny Erleben">
-        </div> 
-        Kenny Erleben, CEO, Founder
-        </td>
-        <td>
-        <div class="photo">
-            <img width="256px" src="/assets/images/sune.jpeg" alt="Sune Darkner">
-        </div>
-        Sune Darkner, CTO, Founder
-        </td>
-    </tr>
-  </tbody>
-</table>
-
-
 DARERL ApS was founded as a start-up company by Professor Kenny Erleben and Professor Sune Darkner from the University of Copenhagen.
 The company emerged in connection with the EU RIA project, [Intelligent Robotic Endoscopes for Improved Healthcare Services (IRE)](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101135082/program/43108390/details), funded under HORIZON-CL4-2023-DIGITAL-EMERGING-01.
 
@@ -81,6 +61,20 @@ Since 2019, the technology has matured, and as of 2024, it can handle more cases
   <tbody>
     <tr>
       
+      <td>
+        <div class="photo">
+            <img width="256px" src="/assets/images/kenny.jpg" alt="Kenny Erleben">
+        </div> 
+        Kenny Erleben, CEO, Founder
+        </td>
+        <td>
+
+        <div class="photo">
+            <img width="256px" src="/assets/images/sune.jpeg" alt="Sune Darkner">
+        </div>
+        Sune Darkner, CTO, Founder
+        </td>
+
         <td>
         <div class="photo">
             <img width="256px" src="/assets/images/sandra_fredmark.jpeg" alt="Sandra Fredmark">
@@ -88,6 +82,8 @@ Since 2019, the technology has matured, and as of 2024, it can handle more cases
         Sandra Fredmark, VP of Legal & Administration 
         </td>
 
+    </tr>
+    <tr>
 
         <td>
         <div class="photo">
@@ -117,7 +113,7 @@ Since 2019, the technology has matured, and as of 2024, it can handle more cases
 
 
 
-<h2>The DARERL Advisory Board</h2>
+<h2>Our Advisory Board</h2>
 
 <table class="photo-table">
   <tbody>
