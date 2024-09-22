@@ -72,7 +72,6 @@ plugins:
 header_pages:
   - products.md
   - services.md
-  - pubs.md
   - about.md
 
 # Set to `true` to show excerpts on the homepage.
