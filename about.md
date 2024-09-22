@@ -119,7 +119,7 @@ finite element analysis, and statistical population analysis.
     <tr>
         <td>
         Sarah Maria Niebe Abel<br>
-        Senior Developer, Simulation Sepcialist
+        Senior Developer, Simulation Specialist
         </td>
 
 
