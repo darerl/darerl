@@ -154,13 +154,7 @@ finite element analysis, and statistical population analysis.
         
         <td>
         <div class="photo">
-            <img width="256px" src="/assets/images/enrique_morales_orcajo.jpg" alt="enrique_morales_orcajo">
-        </div>
-        </td>
-
-        <td>
-        <div class="photo">
-            <img width="256px" src="/assets/images/michael_bachmann_nielsen.jpeg" alt="Michael Bachmann Nielsen, Professor of Radiology">
+            <img width="256px" src="/assets/images/enrique_morales_orcajo.jpg" alt="Enrique Morales Orcajo">
         </div>
         </td>
 
@@ -180,6 +174,33 @@ finite element analysis, and statistical population analysis.
         In Silico Medicine Opinion Leader
         </td>
 
+    </tr>
+
+
+    <tr>
+ 
+        <td>
+        <div class="photo">
+            <img width="256px" src="/assets/images/lars_konge.jpeg" alt="Lars Konge">
+        </div>
+        </td>
+
+        <td>
+        <div class="photo">
+            <img width="256px" src="/assets/images/michael_bachmann_nielsen.jpeg" alt="Michael Bachmann Nielsen">
+        </div>
+        </td>
+
+    </tr>
+
+    <tr>
+
+        <td>
+        Lars Konge<br>
+        Clinical Advisor<br>
+        Professor of Cardio-thoracic Surgery & Medical Education
+        </td>
+
         <td>
         Michael Bachmann Nielsen<br>
         Clinical Advisor<br>
@@ -187,6 +208,7 @@ finite element analysis, and statistical population analysis.
         </td>
 
     </tr>
+
 
 </tbody>
 </table>
